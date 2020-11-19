@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84f16279-63e3-483a-aa07-c189b1e607de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="dab287a7-d7c4-4aac-af5a-20a313de64ee" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="XAMPP PHP 7.4.11" />
+  <component name="ProjectId" id="1jmyVasX6e5vbvDCZTxrCr5D9qQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/phpunit" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StreetFreakWear" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.StreetFreakWear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f16279-63e3-483a-aa07-c189b1e607de" name="Default Changelist" comment="" />
+      <created>1604423586484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604423586484</updated>
+      <workItem from="1604423587751" duration="6408000" />
+      <workItem from="1605187863065" duration="1281000" />
+      <workItem from="1605717065935" duration="704000" />
+      <workItem from="1605789786485" duration="2821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1604424592865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1604424592865" />
+    <state x="349" y="0" key="#PHP" timestamp="1604424615813">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1604424615813" />
+    <state x="221" y="0" key="#Test_Frameworks" timestamp="1605791611145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#Test_Frameworks/0.0.1280.680@0.0.1280.680" timestamp="1605791611145" />
+    <state x="289" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604426436572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="289" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1604426436572" />
+    <state x="418" y="253" width="444" height="372" key="ComposerInitDialogKey" timestamp="1605793975808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="418" y="253" width="444" height="372" key="ComposerInitDialogKey/0.0.1280.680@0.0.1280.680" timestamp="1605793975808" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1605793796407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605793796407" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1605791674348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605791674348" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1605791674348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605791674348" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1605791674348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605791674348" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1605791674348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605791674348" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1604423643078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1280.680@0.0.1280.680" timestamp="1604423643078" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605791208185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605791208185" />
+    <state x="564" y="355" key="run.anything.popup" timestamp="1604423647893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="564" y="355" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1604423647893" />
+  </component>
+</project>

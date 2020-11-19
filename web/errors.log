@@ -1,0 +1,16 @@
+[Tue Nov 03 21:22:15.982377 2020] [ssl:warn] [pid 8144:tid 544] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 03 21:22:16.041113 2020] [ssl:warn] [pid 8144:tid 544] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 03 21:22:16.593759 2020] [ssl:warn] [pid 12272:tid 548] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Nov 03 21:22:16.640627 2020] [ssl:warn] [pid 12272:tid 548] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 12 16:30:26.329253 2020] [ssl:warn] [pid 14484:tid 540] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 12 16:30:26.409245 2020] [ssl:warn] [pid 14484:tid 540] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 12 16:30:27.532667 2020] [ssl:warn] [pid 6500:tid 552] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 12 16:30:27.581302 2020] [ssl:warn] [pid 6500:tid 552] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 18 19:31:22.322102 2020] [ssl:warn] [pid 13852:tid 556] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 18 19:31:22.384586 2020] [ssl:warn] [pid 13852:tid 556] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 18 19:31:23.552845 2020] [ssl:warn] [pid 14092:tid 556] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Nov 18 19:31:23.610188 2020] [ssl:warn] [pid 14092:tid 556] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 19 14:57:47.350793 2020] [ssl:warn] [pid 12312:tid 116] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 19 14:57:47.408504 2020] [ssl:warn] [pid 12312:tid 116] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 19 14:57:48.535670 2020] [ssl:warn] [pid 9816:tid 552] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 19 14:57:48.593857 2020] [ssl:warn] [pid 9816:tid 552] AH01909: StreetFreakWear.local:443:0 server certificate does NOT include an ID which matches the server name

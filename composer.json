@@ -1,0 +1,15 @@
+{
+  "name": "alex_kron/streetfreakwear",
+  "description": "Clothing store test site",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "alex_kron",
+      "email": "alexmyxa@gmail.com"
+    }
+  ],
+  "require": {
+    "smarty/smarty": "3.*"
+  }
+}
