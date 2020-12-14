@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "smarty/smarty": "3.*"
+    "smarty/smarty": "~v3.1.36",
+    "ext-pdo": "*"
   }
 }

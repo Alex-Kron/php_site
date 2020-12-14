@@ -14,24 +14,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'c8bd17ccc1f0dc800f7c98c27da5c2a5f9285ee9',
     'name' => 'alex_kron/streetfreakwear',
   ),
   'versions' => 
   array (
     'alex_kron/streetfreakwear' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'c8bd17ccc1f0dc800f7c98c27da5c2a5f9285ee9',
     ),
     'smarty/smarty' => 
     array (
